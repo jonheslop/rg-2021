@@ -15,11 +15,11 @@ BT Mobile has been neglected and conversion is at an all time low, the rest of t
 
 Having successfully delivered phase one of the AEM relaunch which included Broadband, TV, Sports and Sim products, we are now moving into phase two where we have scope to redesign the mobile handset journey. Using SessionCam we have noticed that users are struggling to add a handset and plan to their basket. We think that the “Your selection” area at the top of the page is causing issues and therefore conversion to the basket summary page is suffering. We would also like to try and improve conversion from the handset grid to product page.
 
-![BT Mobile grid screeshot](/assets/blog/bt-mobile/Old---Mobile-Phone-Grid.jpg|1200|1785|triple)
+![BT Mobile grid screenshot](/assets/blog/bt-mobile/Old---Mobile-Phone-Grid.jpg|1200|1785|triple)
 
-![BT Mobile PDP screeshot](/assets/blog/bt-mobile/Old---Mobile-Phone-PDP.jpg|1200|1785|triple)
+![BT Mobile PDP screenshot](/assets/blog/bt-mobile/Old---Mobile-Phone-PDP.jpg|1200|1785|triple)
 
-![BT Mobile Summary screeshot](/assets/blog/bt-mobile/Old---Mobile-Phone-Summary.jpg|1200|1785|triple)
+![BT Mobile Summary screenshot](/assets/blog/bt-mobile/Old---Mobile-Phone-Summary.jpg|1200|1785|triple)
 
 ## Skills Used
 

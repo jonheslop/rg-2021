@@ -9,8 +9,11 @@ const renderers = {
     return (
       <figure
         className={cn("p-5", {
-          "float-left w-1/3": layout === "triple",
+          "max-w-2xl mx-auto": layout === "single",
           "float-left w-1/2": layout === "double",
+          "float-left w-1/3": layout === "triple",
+          "float-left w-1/4": layout === "quad",
+          "float-left w-1/5": layout === "hep",
         })}
       >
         <Image src={src} alt={image.alt} height={height} width={width} />
@@ -25,11 +28,13 @@ const renderers = {
       return (
         <figure
           className={cn("p-5", {
-            "float-left w-1/3": layout === "triple",
+            "max-w-2xl mx-auto": layout === "single",
             "float-left w-1/2": layout === "double",
+            "float-left w-1/3": layout === "triple",
+            "float-left w-1/4": layout === "quad",
+            "float-left w-1/5": layout === "hep",
           })}
         >
-          {" "}
           <Image
             src={src}
             alt={image.alt}
