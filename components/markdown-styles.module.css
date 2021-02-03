@@ -11,11 +11,11 @@
 }
 
 .markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug max-w-2xl mx-auto clear-both;
+  @apply font-bold text-3xl mt-12 mb-4 leading-snug max-w-2xl mx-auto clear-both;
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug max-w-2xl mx-auto clear-both;
+  @apply font-bold text-2xl mt-8 mb-4 leading-snug max-w-2xl mx-auto clear-both;
 }
 
 .markdown blockquote {

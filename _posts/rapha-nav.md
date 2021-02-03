@@ -3,6 +3,8 @@ title: "Rapha Navigation"
 date: "2016-01-31T21:28:03.284Z"
 excerpt: "Looking at the information architecture of Rapha's navigation and designing a new structure which could include content and commerce."
 coverImage: "/assets/blog/rapha-nav/cover.png"
+coverImageWidth: 1200
+coverImageHeight: 900
 ogImage:
   url: "/assets/blog/rapha-nav/cover.png"
 ---

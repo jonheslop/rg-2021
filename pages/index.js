@@ -9,7 +9,9 @@ import Head from "next/head";
 import { SITE_TITLE } from "../lib/constants";
 
 export default function Index({ allPosts }) {
-  const heroPost = allPosts[0];
+  // const heroPost = allPosts[0];
+  // const morePosts = allPosts.slice(1);
+  const heroPost = null;
   const morePosts = allPosts.slice(1);
   return (
     <>
@@ -24,6 +26,8 @@ export default function Index({ allPosts }) {
             <HeroPost
               title={heroPost.title}
               coverImage={heroPost.coverImage}
+              coverImageWidth={heroPost.coverImageWidth}
+              coverImageHeight={heroPost.coverImageHeight}
               date={heroPost.date}
               author={heroPost.author}
               slug={heroPost.slug}
@@ -44,6 +48,8 @@ export async function getStaticProps() {
     "slug",
     "author",
     "coverImage",
+    "coverImageWidth",
+    "coverImageHeight",
     "excerpt",
   ]);
 

@@ -3,8 +3,8 @@ import PostPreview from "../components/post-preview";
 export default function MoreStories({ posts }) {
   return (
     <section>
-      <h2 className="mb-8 text-6xl md:text-7xl font-bold tracking-tighter leading-tight">
-        More case studies
+      <h2 className="mb-8 text-4xl font-black tracking-tighter leading-tight">
+        Recent work
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-3 md:gap-x-16 gap-y-20 mb-32">
         {posts.map((post) => (
@@ -12,6 +12,8 @@ export default function MoreStories({ posts }) {
             key={post.slug}
             title={post.title}
             coverImage={post.coverImage}
+            coverImageHeight={post.coverImageHeight}
+            coverImageWidth={post.coverImageWidth}
             date={post.date}
             author={post.author}
             slug={post.slug}

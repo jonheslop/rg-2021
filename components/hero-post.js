@@ -6,6 +6,8 @@ import Link from "next/link";
 export default function HeroPost({
   title,
   coverImage,
+  coverImageWidth,
+  coverImageHeight,
   date,
   excerpt,
   author,
@@ -18,8 +20,8 @@ export default function HeroPost({
           title={title}
           src={coverImage}
           slug={slug}
-          height={620}
-          width={1240}
+          height={coverImageHeight}
+          width={coverImageWidth}
         />
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
