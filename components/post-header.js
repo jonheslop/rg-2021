@@ -3,7 +3,13 @@ import DateFormatter from "../components/date-formatter";
 import CoverImage from "../components/cover-image";
 import PostTitle from "../components/post-title";
 
-export default function PostHeader({ title, coverImage, date, author }) {
+export default function PostHeader({
+  title,
+  coverImage,
+  date,
+  author,
+  season,
+}) {
   return (
     <>
       <div className="mb-8 md:mb-16 sm:mx-0">
@@ -12,7 +18,7 @@ export default function PostHeader({ title, coverImage, date, author }) {
       <PostTitle>{title}</PostTitle>
       <div className="max-w-2xl mx-auto">
         <div className="mb-6 text-lg text-gray-500">
-          <DateFormatter dateString={date} />
+          <DateFormatter season={season} dateString={date} />
         </div>
       </div>
     </>

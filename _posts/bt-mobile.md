@@ -5,6 +5,7 @@ coverImage: "/assets/blog/bt-mobile/cover.png"
 coverImageWidth: 2100
 coverImageHeight: 1260
 date: "2018-03-31T21:28:03.284Z"
+season: "Spring"
 ogImage:
   url: "/assets/blog/bt-mobile/cover.png"
 ---

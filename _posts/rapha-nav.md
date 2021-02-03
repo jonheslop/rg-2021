@@ -5,6 +5,7 @@ excerpt: "Looking at the information architecture of Rapha's navigation and desi
 coverImage: "/assets/blog/rapha-nav/cover.png"
 coverImageWidth: 1200
 coverImageHeight: 900
+season: "Spring"
 ogImage:
   url: "/assets/blog/rapha-nav/cover.png"
 ---

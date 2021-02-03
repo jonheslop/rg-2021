@@ -3,6 +3,7 @@ title: "Rapha E-Commerce Filters"
 date: "2016-06-26T21:28:03.284Z"
 excerpt: "Designing a new filter for shop and search pages on Rapha.cc, expanding on the current facets and making it clear and simple for users."
 coverImage: "/assets/blog/rapha-filters/cover.png"
+season: "Summer"
 coverImageWidth: 1600
 coverImageHeight: 960
 ogImage:

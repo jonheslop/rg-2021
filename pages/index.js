@@ -32,6 +32,7 @@ export default function Index({ allPosts }) {
               author={heroPost.author}
               slug={heroPost.slug}
               excerpt={heroPost.excerpt}
+              season={heroPost.season}
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
@@ -51,6 +52,7 @@ export async function getStaticProps() {
     "coverImageWidth",
     "coverImageHeight",
     "excerpt",
+    "season",
   ]);
 
   return {

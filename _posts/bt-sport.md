@@ -4,6 +4,7 @@ excerpt: "Redesigning the BT Sport sales journeys and simplifying the way users 
 coverImage: "/assets/blog/bt-sport/cover.png"
 coverImageWidth: 1200
 coverImageHeight: 720
+season: "Summer"
 date: "2017-08-31T21:28:03.284Z"
 ogImage:
   url: "/assets/blog/bt-sport/cover.png"
