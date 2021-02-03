@@ -2,7 +2,7 @@ import PostPreview from "../components/post-preview";
 
 export default function MoreStories({ posts }) {
   return (
-    <section>
+    <section className="px-5 md:px-8" id="work">
       <h2 className="mb-8 text-4xl font-black tracking-tighter leading-tight">
         Recent work
       </h2>
