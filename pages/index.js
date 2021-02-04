@@ -53,6 +53,7 @@ export async function getStaticProps() {
     "coverImageHeight",
     "excerpt",
     "season",
+    "company",
   ]);
 
   return {

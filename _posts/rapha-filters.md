@@ -1,5 +1,6 @@
 ---
-title: "Rapha E-Commerce Filters"
+title: "Rapha e-commerce filters"
+company: "Rapha"
 date: "2016-06-26T21:28:03.284Z"
 excerpt: "Designing a new filter for shop and search pages on Rapha.cc, expanding on the current facets and making it clear and simple for users."
 coverImage: "/assets/blog/rapha-filters/cover.png"

@@ -1,5 +1,6 @@
 ---
-title: "BT broadband digital transformation"
+title: "Broadband digital transformation"
+company: "BT"
 excerpt: "Digital transformation of the BT.com storefront using Adobe Experience Manager. A UX led project to build a component library that could facilitate all Broadband, TV and Sports sales journeys."
 season: "Summer"
 coverImage: "/assets/blog/bt-broadband-aem/cover.png"

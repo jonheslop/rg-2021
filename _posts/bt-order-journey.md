@@ -1,5 +1,6 @@
 ---
-title: "BT Order Journey"
+title: "Order journey"
+company: "BT"
 excerpt: "An internal facing UX project which tackled ways of working that were deeply entrenched in remote working teams, resulting in a 40% increase in capacity for development demand tickets."
 coverImage: "/assets/blog/bt-order-journey/cover.jpg"
 coverImageWidth: 1200

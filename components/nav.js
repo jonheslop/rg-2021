@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Nav() {
   return (
-    <header className="flex-row flex items-center justify-between mt-4 md:mt-12 px-5 md:px-8">
+    <header className="flex-row flex items-center justify-between mt-4 px-5 md:px-8 pb-5 border-b">
       <h1 className="text-3xl md:text-5xl font-black tracking-tighter leading-tight">
         <Link href="/">
           <a className="hover:underline bg-clip-text hover:text-transparent bg-gradient-to-br from-teal to-gold-darkest">

@@ -12,6 +12,7 @@ export default function PostPreview({
   excerpt,
   slug,
   season,
+  company,
 }) {
   return (
     <div>
@@ -29,8 +30,9 @@ export default function PostPreview({
           <a className="hover:underline">{title}</a>
         </Link>
       </h3>
+
       <div className="font-medium mb-4 text-gray-500">
-        <DateFormatter season={season} dateString={date} />
+        {company}, <DateFormatter season={season} dateString={date} />
       </div>
       <p className="font-medium leading-relaxed mb-4">{excerpt}</p>
     </div>

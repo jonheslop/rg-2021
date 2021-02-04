@@ -1,5 +1,6 @@
 ---
 title: "Newsflare"
+company: "Newsflare"
 date: "2017-01-31T21:28:03.284Z"
 excerpt: "Newsflare are a company specialising in user generated video which they license to news organisations around the world. Users upload content to the Newsflare platform through desktop or a mobile application."
 coverImage: "/assets/blog/newsflare/cover.png"

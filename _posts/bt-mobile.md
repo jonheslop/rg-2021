@@ -1,5 +1,6 @@
 ---
 title: "BT Mobile"
+company: "BT"
 excerpt: "BT Mobile has been neglected and conversion is at an all time low, the rest of the core BT products have been redesigned but the journey of buying a handset and contract are now out of date."
 coverImage: "/assets/blog/bt-mobile/cover.png"
 coverImageWidth: 2100

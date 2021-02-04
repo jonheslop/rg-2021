@@ -1,5 +1,6 @@
 ---
-title: "Rapha Basket Summary"
+title: "Basket summary"
+company: "Rapha"
 date: "2016-02-03T21:28:03.284Z"
 excerpt: "Improving the basket summary page, displaying only the relevant information, highlighting bundle purchases and allowing items to be added without navigating back to the shop pages."
 coverImage: "/assets/blog/rapha-basket/cover.png"

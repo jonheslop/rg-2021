@@ -1,5 +1,6 @@
 ---
 title: "BT Sport"
+company: "BT"
 excerpt: "Redesigning the BT Sport sales journeys and simplifying the way users can buy a sports package."
 coverImage: "/assets/blog/bt-sport/cover.png"
 coverImageWidth: 1200
