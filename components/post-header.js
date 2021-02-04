@@ -15,8 +15,8 @@ export default function PostHeader({
       <div className="mb-8 md:mb-16 sm:mx-0">
         <CoverImage title={title} src={coverImage} height={1260} width={2100} />
       </div>
-      <PostTitle>{title}</PostTitle>
-      <div className="max-w-2xl mx-auto">
+      <div className="max-w-2xl mx-auto px-4 md:px-0">
+        <PostTitle>{title}</PostTitle>
         <div className="mb-6 text-lg text-gray-500">
           <DateFormatter season={season} dateString={date} />
         </div>

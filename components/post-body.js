@@ -51,7 +51,7 @@ const renderers = {
 
 export default function PostBody({ content }) {
   return (
-    <div className="">
+    <div className="px-4 lg:px-12">
       <ReactMarkdown
         className={markdownStyles["markdown"]}
         children={content}

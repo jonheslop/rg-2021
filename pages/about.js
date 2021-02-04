@@ -14,14 +14,16 @@ export default function About() {
         </Head>
         <Container>
           <Nav />
-          <article className="grid grid-cols-1 md:grid-cols-2 md:gap-x-32 gap-y-20 mb-32 my-32">
-            <Image
-              src={"/assets/rebecca-goss.jpg"}
-              alt={`A portrait of Bec}`}
-              className="shadow-sm"
-              width={768}
-              height={768}
-            />
+          <article className="grid grid-cols-1 md:grid-cols-2 md:gap-x-32 my-4 mb-32 md:my-32 md:mb-32 px-4 lg:px-12">
+            <figure className="w-1/2 md:w-full mx-auto mb-8 md:mb-0">
+              <Image
+                src={"/assets/rebecca-goss.jpg"}
+                alt={`A portrait of Bec}`}
+                className="shadow-sm"
+                width={768}
+                height={768}
+              />
+            </figure>
             <div className="max-w-2xl mx-auto">
               <h1 className="text-4xl md:text-8xl tracking-tight font-black leading-tight mb-8">
                 Hello!
